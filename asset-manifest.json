@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abhishektanwar.github.io/csb-6pkc4/static/css/main.cddb7bd1.chunk.css",
+    "main.js": "https://abhishektanwar.github.io/csb-6pkc4/static/js/main.80dd9ba3.chunk.js",
+    "main.js.map": "https://abhishektanwar.github.io/csb-6pkc4/static/js/main.80dd9ba3.chunk.js.map",
+    "runtime-main.js": "https://abhishektanwar.github.io/csb-6pkc4/static/js/runtime-main.37aa7a2b.js",
+    "runtime-main.js.map": "https://abhishektanwar.github.io/csb-6pkc4/static/js/runtime-main.37aa7a2b.js.map",
+    "static/js/2.e0adbe5c.chunk.js": "https://abhishektanwar.github.io/csb-6pkc4/static/js/2.e0adbe5c.chunk.js",
+    "static/js/2.e0adbe5c.chunk.js.map": "https://abhishektanwar.github.io/csb-6pkc4/static/js/2.e0adbe5c.chunk.js.map",
+    "index.html": "https://abhishektanwar.github.io/csb-6pkc4/index.html",
+    "static/css/main.cddb7bd1.chunk.css.map": "https://abhishektanwar.github.io/csb-6pkc4/static/css/main.cddb7bd1.chunk.css.map",
+    "static/js/2.e0adbe5c.chunk.js.LICENSE.txt": "https://abhishektanwar.github.io/csb-6pkc4/static/js/2.e0adbe5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37aa7a2b.js",
+    "static/js/2.e0adbe5c.chunk.js",
+    "static/css/main.cddb7bd1.chunk.css",
+    "static/js/main.80dd9ba3.chunk.js"
+  ]
+}
